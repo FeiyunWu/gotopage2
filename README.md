@@ -1,9 +1,13 @@
 @all right resived by SAP
 
 SAP WEB IDE can not use GIT push to remote branch bug.
+
 1.right click [project setting];
-2.choose gGit Repository Configuration];
+
+2.choose Git Repository Configuration];
+
 3.delete user.email,user.account.
+
 
 this is the demo for link:
 
